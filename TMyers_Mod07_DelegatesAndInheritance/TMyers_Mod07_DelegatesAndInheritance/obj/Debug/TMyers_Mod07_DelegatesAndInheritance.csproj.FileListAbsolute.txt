@@ -1,0 +1,9 @@
+C:\Users\myers\AppData\Local\Temporary Projects\TMyers_Mod07_DelegatesAndInheritance\bin\Debug\TMyers_Mod07_DelegatesAndInheritance.exe.config
+C:\Users\myers\AppData\Local\Temporary Projects\TMyers_Mod07_DelegatesAndInheritance\bin\Debug\TMyers_Mod07_DelegatesAndInheritance.exe
+C:\Users\myers\AppData\Local\Temporary Projects\TMyers_Mod07_DelegatesAndInheritance\bin\Debug\TMyers_Mod07_DelegatesAndInheritance.pdb
+C:\Users\myers\AppData\Local\Temporary Projects\TMyers_Mod07_DelegatesAndInheritance\obj\Debug\TMyers_Mod07_DelegatesAndInheritance.csprojResolveAssemblyReference.cache
+C:\Users\myers\AppData\Local\Temporary Projects\TMyers_Mod07_DelegatesAndInheritance\obj\Debug\TMyers_Mod07_DelegatesAndInheritance.exe
+C:\Users\myers\AppData\Local\Temporary Projects\TMyers_Mod07_DelegatesAndInheritance\obj\Debug\TMyers_Mod07_DelegatesAndInheritance.pdb
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\Mod07\TMyers_Mod07_DelegatesAndInheritance\TMyers_Mod07_DelegatesAndInheritance\bin\Debug\TMyers_Mod07_DelegatesAndInheritance.exe.config
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\Mod07\TMyers_Mod07_DelegatesAndInheritance\TMyers_Mod07_DelegatesAndInheritance\obj\Debug\TMyers_Mod07_DelegatesAndInheritance.exe
+C:\Users\myers\Documents\Visual Studio 2015\Projects\EDU\Fall2017\Advanced-CSharp\Mod07\TMyers_Mod07_DelegatesAndInheritance\TMyers_Mod07_DelegatesAndInheritance\obj\Debug\TMyers_Mod07_DelegatesAndInheritance.pdb

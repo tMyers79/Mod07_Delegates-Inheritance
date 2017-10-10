@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMyers_Mod07_DelegatesAndInheritance", "TMyers_Mod07_DelegatesAndInheritance\TMyers_Mod07_DelegatesAndInheritance.csproj", "{4DD629D5-F0FE-47A6-B438-E4FB45A65056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD629D5-F0FE-47A6-B438-E4FB45A65056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD629D5-F0FE-47A6-B438-E4FB45A65056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD629D5-F0FE-47A6-B438-E4FB45A65056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD629D5-F0FE-47A6-B438-E4FB45A65056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
